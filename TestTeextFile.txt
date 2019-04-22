@@ -1,4 +1,7 @@
-Hi
+Follow the GIT Cheat Sheet for all the commands.
+altassian-git-cheatsheet.pdf
+
+
 This 
 Is Pradeep
 Test File for GIT
