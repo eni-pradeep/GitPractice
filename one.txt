@@ -1,4 +1,10 @@
 This is a 1.txt
 This is addingmnndkjhadk
 gdjg
+<<<<<<< HEAD
 hello
+=======
+
+This is to test fast Forwarding
+
+>>>>>>> uat
