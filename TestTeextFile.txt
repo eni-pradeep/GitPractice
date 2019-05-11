@@ -1,7 +1,12 @@
 Follow the GIT Cheat Sheet for all the commands.
 altassian-git-cheatsheet.pdf
+<<<<<<< HEAD
 Adding changes
 
+=======
+
+Testing for GIT pull
+>>>>>>> 34aa23dc381d56ef22dd91f1373df1449c18ef9e
 This 
 Is Pradeep
 Test File for GIT
