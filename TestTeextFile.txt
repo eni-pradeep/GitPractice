@@ -1,6 +1,6 @@
 Follow the GIT Cheat Sheet for all the commands.
 altassian-git-cheatsheet.pdf
-
+Adding changes
 
 This 
 Is Pradeep
