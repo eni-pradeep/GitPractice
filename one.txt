@@ -7,4 +7,3 @@ hello
 
 This is to test fast Forwarding
 
->>>>>>> uat
